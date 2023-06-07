@@ -1,2 +1,4 @@
 # vaccine_provision
-* Java JSP-Servlet
+* Java 
+* JSP
+* Servlet
